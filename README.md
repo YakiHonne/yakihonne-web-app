@@ -1,7 +1,6 @@
 # What is YakiHonne?
 
-YakiHonne is the 1st Fully Decentralized Social Network on Bitcoin. Connecting 160+ countries globally, YakiHonne attracts 50K+ active Bitcoiners, INCLUDING the former CEO of Twitter - Jack Dorsey, and his former boss, Rabble. YakiHonne is a Nostr-based decentralized content media protocol, which supports free curation, creation, publishing, and reporting by various media creators.
-Check it out at [yakihonne.com](https://yakihonne.com)
+YakiHonne is the 1st Fully Decentralized Social Network on Bitcoin. Connecting 160+ countries globally, YakiHonne attracts 50K+ active Bitcoiners. Check it out at [yakihonne.com](https://yakihonne.com)
 
 Currently, YakiHonne is partnering with BITMAIN, Bitcoin Magazine, and 30+ programs in BTC ecosystems, and even non-BTC programs. YakiHonne received grants/ supports from Gitcoin, Nostr, DoraHacks etc..
 
@@ -38,7 +37,7 @@ YakiHonne also runs its own relays under [nostr-01.yakihonne.com](https://nostr-
 
 ## 1.2 Relay
 
-[nostr-01.yakihonne.com](https://nostr-01.yakihonne.com) and [nostr-02.yakihonne.com](https://nostr-02.yakihonne.com)relay is fully based on [strfry](https://github.com/hoytech/strfry) implementation and writted in Typescript.
+[nostr-01.yakihonne.com](https://nostr-01.yakihonne.com) and [nostr-02.yakihonne.com](https://nostr-02.yakihonne.com) relay is fully based on [strfry](https://github.com/hoytech/strfry) implementation and writted in Typescript.
 
 # Run YakiHonne locally
 
