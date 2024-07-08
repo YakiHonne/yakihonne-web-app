@@ -6,9 +6,6 @@ Currently, YakiHonne is partnering with BITMAIN, Bitcoin Magazine, and 30+ progr
 
 YakiHonne also runs its own relays under [nostr-01.yakihonne.com](https://nostr-01.yakihonne.com) and [nostr-02.yakihonne.com](https://nostr-02.yakihonne.com) for creators to publish their content, it is free of charge (atm). The relay is based on [strfry](https://github.com/hoytech/strfry) and written in cpp if you would like to check it out.
 
-<img src="https://nostr.build/i/f4382043ce8b52019152eb3fe88cf0ac443ecd9e51e36b13fa897ce48c3cc48b.jpg" width="200"><img src="https://nostr.build/i/e52fc8e2be38e305630597a7a93559349dea3cb02286dc0496a2d4223c7d7bde.jpg" width="200"><img src="https://nostr.build/i/72f1d411578d88d72a122dd4de15d55e0b0c68b60f0159b911c792cb2b87ea67.jpg" width="200">
-<img src="https://nostr.build/i/948aa1989540e0bf659df89bbc38737afcf52b1af8ed06d6b7ab21786e369671.jpg" width="200">
-
 # 1. Features
 
 ## 1.1 Cient
