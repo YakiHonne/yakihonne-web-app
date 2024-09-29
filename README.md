@@ -42,3 +42,18 @@ YakiHonne also runs its own relays under [nostr-01.yakihonne.com](https://nostr-
 - Navigate to the main directory: `cd client`
 - Install dependencies: `npm install`
 - Run the app: `npm start`
+
+# Run docker
+For those who want to self-host, use the Dockerfile from the repository. Run commands in terminal:
+- run: `docker build -t yakihonne-web-app .`
+- and run: `docker run -p 3200:3200 yakihonne-web-app -d`
+- access in the browser http://localhost:3200
+
+## OR
+
+# Run docker compose
+Use the docker-compose.yml file from the repository and run:
+
+- Download the Dockerfile and docker-compose.yml, place them in the same directory.
+- run: `docker-compose up --build -d` or `docker compose up --build -d`
+- access in the browser http://localhost:3200
