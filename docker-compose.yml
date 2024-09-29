@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web-app:
+    image: yakihonne-web-app:latest
+    container_name: yakihonne-containe
+    build:
+      context: .
+    ports:
+      - "3200:3200"
+    restart: always
